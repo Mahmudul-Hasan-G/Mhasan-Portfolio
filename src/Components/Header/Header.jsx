@@ -3,7 +3,7 @@
 const Header = () => {
   return (
     <div>
-      <div className="navbar bg-base-100">
+      <div className="navbar bg-orange-300">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -20,7 +20,7 @@ const Header = () => {
     <a className="btn btn-ghost text-xl">Mahmudul Hasan</a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
+    <ul className="menu menu-horizontal px-1 font-bold text-2xl">
     <li><a>Home</a></li>
         <li><a>About</a></li>
         <li><a>Cirtifications</a></li>
@@ -29,7 +29,7 @@ const Header = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Button</a>
+    <a className="btn bg-orange-500 font-bold text-xl">Hire</a>
   </div>
 </div>
     </div>
