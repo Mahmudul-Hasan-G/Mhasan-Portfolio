@@ -9,6 +9,8 @@ import {
 import Home from './Components/Home/Home.jsx';
 import AboutMe from './Components/AboutMe/AboutMe.jsx';
 import Certifications from './Components/Certifications/Certifications.jsx';
+import Expertise from './Components/Expertise/Expertise.jsx';
+import Project from './Components/Project/Project.jsx';
 
 const router = createBrowserRouter([
   {
@@ -28,12 +30,12 @@ const router = createBrowserRouter([
         element:<Certifications />
       },
       {
-        path:"/certifications",
-        element:<Certifications />
+        path:"/expertise",
+        element:<Expertise />
       },      
       {
-        path:"/certifications",
-        element:<Certifications />
+        path:"/project",
+        element:<Project />
       },      
 
 
