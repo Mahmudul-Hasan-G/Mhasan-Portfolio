@@ -15,10 +15,10 @@ const AboutMe = () => {
     <h1>I come from a good family where I learned to respect everyone, especially women, at work. I love learning new things and I am really friendly. Writing poems is one of my favorite hobbies.</h1>
       </div>
       </div>
-    <div className="col-span-4 my-6">
-    <img className="w-full" src="/public/hasan.jpg" alt="" />
-    <img className="w-full" src="/public/DCI.jpg" alt="" />
-    <img className="w-full" src="/public/coursera.png" alt="" />
+    <div className="col-span-4 my-6 h-screen">
+    <img className="w-full h-1/3" src="/public/hasan.jpg" alt="" />
+    <img className="w-full h-1/3" src="/public/DCI.jpg" alt="" />
+    <img className="w-full h-1/3" src="/public/coursera.png" alt="" />
     </div>
     </div>
     </div>
