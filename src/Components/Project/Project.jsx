@@ -61,41 +61,24 @@ const Project = () => {
     </div>
       <Carousel className="col-span-8">
                 <div>
-                    <img src="/public/HOME.png" />
+                    <img src="/public/EJ_1.png" />
                     <p className="legend">Home Page</p>
                 </div>
                 <div>
-                    <img src="/public/ALART.png" />
+                    <img src="/public/EJ_2.png" />
                     <p className="legend">Alert For Activity </p>
                 </div>
                 <div>
-                    <img src="/public/HOME-2.png" />
+                    <img src="/public/EJ_3.png" />
                     <p className="legend">Home Page After LogIn</p>
                 </div>
                 <div>
-                    <img src="/public/PLACES.png" />
+                    <img src="/public/EJ_4.png" />
                     <p className="legend">Places People Had Inserted</p>
                 </div>
                 <div>
-                    <img src="/public/SIGNIN.png" />
+                    <img src="/public/EJ_5.png" />
                     <p className="legend">SignIn Page</p>
-                </div>
-                
-                <div>
-                    <img src="/public/INSERT.png" />
-                    <p className="legend">Anyone Can Insert Data After SignUp</p>
-                </div>
-                <div>
-                    <img src="/public/LIBRARY.png" />
-                    <p className="legend">Read And Publish New Books</p>
-                </div>
-                <div>
-                    <img src="/public/PLACE_DETAIL.png" />
-                    <p className="legend">Little Description Of The Place You Visited</p>
-                </div>
-                <div>
-                    <img src="/public/SIGNUP.png" />
-                    <p className="legend">SignUp To Enjoy And Experience More</p>
                 </div>
             </Carousel>
     </div>
