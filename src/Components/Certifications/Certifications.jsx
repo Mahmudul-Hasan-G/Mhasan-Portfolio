@@ -19,13 +19,12 @@ FireBase, JWT etc</h1><br />
 </div>
       <div>
       <div className="text-2xl text-center">
-    <h1 className="pt-6">WEB-DEVELOPER </h1><br />
+    <h1 className="pt-6">Data Analytics</h1><br />
     <h1>
-DCI DIGITAL CAREER INSTITUTE GMBH, BERLIN, GERMANY</h1><br />
+Google Coursera</h1><br />
 <h1>
-2023-2024</h1><br />
-<h1>HTML, CSS, JavaScript, React, MongoDB,  REST API,
-FireBase, JWT etc</h1><br />
+2022-2022</h1><br />
+<h1>Spreadsheets, SQL, Tableau and R.Preparing, processing, analyzing and sharing data for thoughtful action. </h1><br />
     </div>
     <img className="my-6" src="/public/Coursera_E.jpg" alt="" />
       </div>
