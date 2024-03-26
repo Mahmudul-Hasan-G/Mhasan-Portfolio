@@ -57,7 +57,7 @@ const Project = () => {
     <div className="col-span-4 text-2xl">
     <h1><span className="font-bold">Name:</span> EMA-JOHN</h1><br />
       <h1><span className="font-bold">Link : </span><Link className="text-blue-500 underline" to="https://ema-john-by-hasan.netlify.app">ema-john-by-hasan.netlify.app</Link></h1><br />
-      <h1><span className="font-bold">Description: </span>Welcome to my Ema-john app.The Ema-john app serves as a comprehensive platform for users to manage their purchases and product selections efficiently. Offering a seamless experience, users can save all their desired products within the app, facilitating easy access and organization. From browsing and ordering items to tracking shipments, the app provides a centralized hub for users to monitor their shopping activities. Moreover, users can view detailed summaries of their orders, including the total price of purchased products, ensuring transparency and clarity in their transactions. Additionally, the app offers a convenient feature allowing users to review and edit their order lists, enabling them to remove unwanted items with ease. This streamlined approach empowers users to curate their shopping experience according to their preferences, enhancing overall satisfaction and convenience.<br/><br/> This website is a fun experiment</h1>
+      <h1><span className="font-bold">Description: </span>Welcome to my Ema-john app.The Ema-john app serves as a comprehensive platform for users to manage their purchases and product selections efficiently. Offering a seamless experience, users can save all their desired products within the app, facilitating easy access and organization. From browsing and ordering items to tracking shipments, the app provides a centralized hub for users to monitor their shopping activities. Moreover, users can view detailed summaries of their orders, including the total price of purchased products, ensuring transparency and clarity in their transactions. Additionally, the app offers a convenient feature allowing users to review and edit their order lists, enabling them to remove unwanted items with ease. This streamlined approach empowers users to curate their shopping experience according to their preferences, enhancing overall satisfaction and convenience.</h1>
     </div>
       <Carousel className="col-span-8">
                 <div>
@@ -82,6 +82,68 @@ const Project = () => {
                 </div>
             </Carousel>
     </div>
+
+    <div className="grid grid-cols-12 gap-4 px-12 pt-12">
+    <div className="col-span-4 text-2xl">
+    <h1><span className="font-bold">Name:</span> EMA-JOHN</h1><br />
+      <h1><span className="font-bold">Link : </span><Link className="text-blue-500 underline" to="https://ema-john-by-hasan.netlify.app">ema-john-by-hasan.netlify.app</Link></h1><br />
+      <h1><span className="font-bold">Description: </span>Welcome to my Ema-john app.The Ema-john app serves as a comprehensive platform for users to manage their purchases and product selections efficiently. Offering a seamless experience, users can save all their desired products within the app, facilitating easy access and organization. From browsing and ordering items to tracking shipments, the app provides a centralized hub for users to monitor their shopping activities. Moreover, users can view detailed summaries of their orders, including the total price of purchased products, ensuring transparency and clarity in their transactions. Additionally, the app offers a convenient feature allowing users to review and edit their order lists, enabling them to remove unwanted items with ease. This streamlined approach empowers users to curate their shopping experience according to their preferences, enhancing overall satisfaction and convenience.</h1>
+    </div>
+      <Carousel className="col-span-8">
+                <div>
+                    <img src="EJ_1.png" />
+                    <p className="legend">Home Page</p>
+                </div>
+                <div>
+                    <img src="EJ_2.png" />
+                    <p className="legend">Alert For Activity </p>
+                </div>
+                <div>
+                    <img src="EJ_3.png" />
+                    <p className="legend">Home Page After LogIn</p>
+                </div>
+                <div>
+                    <img src="EJ_4.png" />
+                    <p className="legend">Places People Had Inserted</p>
+                </div>
+                <div>
+                    <img src="EJ_5.png" />
+                    <p className="legend">SignIn Page</p>
+                </div>
+            </Carousel>
+    </div>
+
+    <div className="grid grid-cols-12 gap-4 px-12 pt-12">
+    <div className="col-span-4 text-2xl">
+    <h1><span className="font-bold">Name:</span> EMA-JOHN</h1><br />
+      <h1><span className="font-bold">Link : </span><Link className="text-blue-500 underline" to="https://ema-john-by-hasan.netlify.app">ema-john-by-hasan.netlify.app</Link></h1><br />
+      <h1><span className="font-bold">Description: </span>Welcome to my Ema-john app.The Ema-john app serves as a comprehensive platform for users to manage their purchases and product selections efficiently. Offering a seamless experience, users can save all their desired products within the app, facilitating easy access and organization. From browsing and ordering items to tracking shipments, the app provides a centralized hub for users to monitor their shopping activities. Moreover, users can view detailed summaries of their orders, including the total price of purchased products, ensuring transparency and clarity in their transactions. Additionally, the app offers a convenient feature allowing users to review and edit their order lists, enabling them to remove unwanted items with ease. This streamlined approach empowers users to curate their shopping experience according to their preferences, enhancing overall satisfaction and convenience.</h1>
+    </div>
+      <Carousel className="col-span-8">
+                <div>
+                    <img src="EJ_1.png" />
+                    <p className="legend">Home Page</p>
+                </div>
+                <div>
+                    <img src="EJ_2.png" />
+                    <p className="legend">Alert For Activity </p>
+                </div>
+                <div>
+                    <img src="EJ_3.png" />
+                    <p className="legend">Home Page After LogIn</p>
+                </div>
+                <div>
+                    <img src="EJ_4.png" />
+                    <p className="legend">Places People Had Inserted</p>
+                </div>
+                <div>
+                    <img src="EJ_5.png" />
+                    <p className="legend">SignIn Page</p>
+                </div>
+            </Carousel>
+    </div>
+
+    
     </div>
   );
 };
