@@ -169,8 +169,8 @@ const Project = () => {
             </Carousel>
 
             <div className="col-span-4 text-2xl">
-    <h1><span className="font-bold">Name:</span> EMA-JOHN</h1><br />
-      <h1><span className="font-bold">Link : </span><Link className="text-blue-500 underline" to="https://ema-john-by-hasan.netlify.app">ema-john-by-hasan.netlify.app</Link></h1><br />
+    <h1><span className="font-bold">Name:</span>BANGLA GRILL</h1><br />
+      <h1><span className="font-bold">Link : </span><Link className="text-blue-500 underline" to="https://ema-john-by-hasan.netlify.app">Work in progress</Link></h1><br />
       <h1><span className="font-bold">Description: </span>Welcome to my Ema-john app.The Ema-john app serves as a comprehensive platform for users to manage their purchases and product selections efficiently. Offering a seamless experience, users can save all their desired products within the app, facilitating easy access and organization. From browsing and ordering items to tracking shipments, the app provides a centralized hub for users to monitor their shopping activities. Moreover, users can view detailed summaries of their orders, including the total price of purchased products, ensuring transparency and clarity in their transactions. Additionally, the app offers a convenient feature allowing users to review and edit their order lists, enabling them to remove unwanted items with ease. This streamlined approach empowers users to curate their shopping experience according to their preferences, enhancing overall satisfaction and convenience.</h1>
     </div>
     </div>
