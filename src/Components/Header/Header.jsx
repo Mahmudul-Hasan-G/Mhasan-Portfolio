@@ -27,7 +27,7 @@ const Header = () => {
         <li><Link to='/aboutMe'>About Me</Link></li>
         <li><Link to='/certifications'>Certifications</Link></li>
         <li><Link to='/expertise'>Expertise</Link></li>
-        <li><Link to='/project'>Projects<div className="badge">+2</div></Link></li>
+        <li><Link to='/project'>Projects<div className="badge">+4</div></Link></li>
     </ul>
   </div>
   <div className="navbar-end">
