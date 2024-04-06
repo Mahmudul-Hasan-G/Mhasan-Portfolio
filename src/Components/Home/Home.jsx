@@ -13,7 +13,7 @@ const Home = () => {
                         <a className="btn bg-orange-500 h-12 w-44 text-xl font-bold">Download CV</a>
     </div>
       <div  className="col-span-4 grid content-center">
-      <img className="rounded-full" src="/public/hasan.jpg" alt="" />
+      <img className="rounded-full" src="hasan.jpg" alt="" />
       </div>
       
     </div>
