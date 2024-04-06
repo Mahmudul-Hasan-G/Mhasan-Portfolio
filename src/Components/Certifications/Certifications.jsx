@@ -1,4 +1,4 @@
-
+import react from 'react';
 
 const Certifications = () => {
   return (
@@ -15,7 +15,7 @@ DCI DIGITAL CAREER INSTITUTE GMBH, BERLIN, GERMANY</h1><br />
 <h1>HTML, CSS, JavaScript, React, MongoDB,  REST API,
 FireBase, JWT etc</h1><br />
     </div>
-<img className="my-6" src="/public/DCI_E.jpg" alt="" />
+<img className="my-6" src="DCI_E.jpg" alt="" />
 </div>
       <div>
       <div className="text-2xl text-center">
@@ -26,7 +26,7 @@ Google Coursera</h1><br />
 2022-2022</h1><br />
 <h1>Spreadsheets, SQL, Tableau and R.Preparing, processing, analyzing and sharing data for thoughtful action. </h1><br />
     </div>
-    <img className="my-6" src="/public/Coursera_E.jpg" alt="" />
+    <img className="my-6" src="Coursera_E.jpg" alt="" />
       </div>
       
     </div>
