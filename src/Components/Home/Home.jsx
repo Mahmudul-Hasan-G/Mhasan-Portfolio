@@ -3,8 +3,8 @@ import react from 'react';
 const Home = () => {
   return (
     <div style={{
-      backgroundImage: 'url("/public/header_bg.png")',  backgroundSize: 'cover'}} className="grid grid-cols-12 gap-4 content-center  bg-orange-50">
-    <img className="col-span-1" src="/public/developer.png" alt="" />
+      backgroundImage: 'url("header_bg.png")',  backgroundSize: 'cover'}} className="grid grid-cols-12 gap-4 content-center  bg-orange-50">
+    <img className="col-span-1" src="developer.png" alt="" />
     <div className="col-span-7 grid content-center ">
     <h1 className="text-4xl mb-6">Hi, I am</h1>
     <h1 className="text-8xl mb-6 font-bold">Mahmudul Hasan</h1>
