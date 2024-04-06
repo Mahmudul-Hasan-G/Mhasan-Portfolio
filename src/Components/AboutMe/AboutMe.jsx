@@ -16,9 +16,9 @@ const AboutMe = () => {
       </div>
       </div>
     <div className="col-span-4 my-6 h-screen">
-    <img className="w-full h-1/3" src="/public/hasan.jpg" alt="" />
-    <img className="w-full h-1/3" src="/public/DCI.jpg" alt="" />
-    <img className="w-full h-1/3" src="/public/coursera.png" alt="" />
+    <img className="w-full h-1/3" src="hasan.jpg" alt="" />
+    <img className="w-full h-1/3" src="DCI.jpg" alt="" />
+    <img className="w-full h-1/3" src="coursera.png" alt="" />
     </div>
     </div>
     </div>
