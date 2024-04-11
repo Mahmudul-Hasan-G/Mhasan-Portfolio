@@ -7,6 +7,7 @@ import { PiFileSql } from "react-icons/pi";
 import { FaNodeJs } from "react-icons/fa";
 import { SiMongodb } from "react-icons/si";
 import { SiTailwindcss } from "react-icons/si";
+import { FaBootstrap } from "react-icons/fa6";
 
 const Expertise = () => {
   return (
@@ -127,9 +128,9 @@ const Expertise = () => {
     <div className="p-12 bg-orange-50">
     <div className="grid grid-rows-6 gap-2 justify-items-center shadow-md w-36">
     <div className="h-16 w-16 row-span-2">
-    <h1 className="text-lime-500 text-6xl shadow-md"><FaNodeJs /></h1>
+    <h1 className="text-violet-600 text-6xl shadow-md"><FaBootstrap /></h1>
     </div>  
-    <h1 className="text-2xl font-bold row-span-1">NodeJs</h1>
+    <h1 className="text-2xl font-bold row-span-1">Bootstrap</h1>
     <h1 className="row-span-3 text-center">Excellent experience of learning and working. </h1>
     </div>
     </div>
