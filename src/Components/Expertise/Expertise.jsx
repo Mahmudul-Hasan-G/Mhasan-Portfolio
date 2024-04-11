@@ -4,6 +4,7 @@ import { FaCss3Alt } from "react-icons/fa6";
 import { IoLogoJavascript } from "react-icons/io5";
 import { SiPhp } from "react-icons/si";
 import { PiFileSql } from "react-icons/pi";
+import { FaNodeJs } from "react-icons/fa";
 
 const Expertise = () => {
   return (
@@ -82,9 +83,9 @@ const Expertise = () => {
     <div className="p-12 bg-orange-50">
     <div className="grid grid-rows-6 gap-2 justify-items-center shadow-md w-36">
     <div className="h-16 w-16 row-span-2">
-    <h1 className="text-indigo-600 text-6xl shadow-md"><SiPhp /></h1>
+    <h1 className="text-blue-600 text-4xl shadow-md">R</h1>
     </div>  
-    <h1 className="text-2xl font-bold row-span-1">PHP</h1>
+    <h1 className="text-2xl font-bold row-span-1">R</h1>
     <h1 className="row-span-3 text-center">Excellent experience of learning and working. </h1>
     </div>
     </div>
@@ -92,9 +93,9 @@ const Expertise = () => {
     <div className="p-12 bg-orange-50">
     <div className="grid grid-rows-6 gap-2 justify-items-center shadow-md w-36">
     <div className="h-16 w-16 row-span-2">
-    <h1 className="text-indigo-600 text-6xl shadow-md"><SiPhp /></h1>
+    <h1 className="text-lime-500 text-6xl shadow-md"><FaNodeJs /></h1>
     </div>  
-    <h1 className="text-2xl font-bold row-span-1">PHP</h1>
+    <h1 className="text-2xl font-bold row-span-1">NodeJs</h1>
     <h1 className="row-span-3 text-center">Excellent experience of learning and working. </h1>
     </div>
     </div>
