@@ -72,9 +72,9 @@ const Expertise = () => {
     <div className="p-12 bg-orange-50">
     <div className="grid grid-rows-6 gap-2 justify-items-center shadow-md w-36">
     <div className="h-16 w-16 row-span-2">
-    <h1 className="text-indigo-600 text-6xl shadow-md"><SiPhp /></h1>
+    <h1 className="text-sky-400 text-2xl shadow-md">NoSQL</h1>
     </div>  
-    <h1 className="text-2xl font-bold row-span-1">PHP</h1>
+    <h1 className="text-2xl font-bold row-span-1">NoSQL</h1>
     <h1 className="row-span-3 text-center">Excellent experience of learning and working. </h1>
     </div>
     </div>
